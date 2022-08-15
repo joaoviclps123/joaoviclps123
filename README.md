@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João Victor</h1>
+<h1 align="center">Olá 👋, Eu sou João Victor</h1>
 <h3 align="center">Um desenvolvedor apaixonado por dados</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaoviclps123" alt="joaoviclps123" /></a> </p>
