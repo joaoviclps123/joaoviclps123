@@ -7,8 +7,6 @@
 
 - 👯 Eu procuro colaborar em projetos de **ciência de dados**
 
-- 🤝 Estou à procura de ajuda com **ingressão na área de dados**
-
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/joaoviclps123](https://github.com/joaoviclps123)
 
 - 📫 Como chegar até mim **joaovictorlopes450@gmail.com**
